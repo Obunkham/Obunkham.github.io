@@ -2,7 +2,7 @@
 <br>
 <a href="indice.html"> indice
   <br>
-<img src="immagine1.jpeg">
+
 <h1>paragrafo1</h1>
 
 <h1>scienza</h1>
