@@ -18,7 +18,7 @@ realizzazione
 
 <h1>paragrafo2</h1>
 <h1>storia</h1>
-<img src="immagine2.jpeg">
+<img src="immagine3.jpeg">
 Negli anni la tecnologia dei computer è migliorata parecchio.
 
 Abbiamo avuto diverse rivoluzioni industriali negli anni
