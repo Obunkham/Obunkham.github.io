@@ -2,6 +2,9 @@
 <br>
 <a href="indice.html"> indice
   <br>
+  <a href="storia">storia</a>
+  <br>
+  
 
 <h1>paragrafo1</h1>
 
