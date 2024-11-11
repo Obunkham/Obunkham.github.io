@@ -2,8 +2,7 @@
 <br>
 <a href="indice.html"> indice
   <br>
-  <a href="storia">storia</a>
-  <br>
+
   
 
 <h1>paragrafo1</h1>
@@ -85,4 +84,6 @@ il mouse,la tastiera e un monitor.
 <h1>paragrafo8</h1>
 <h1>paragrafo9</h1>
 <h1>paragrafo10</h1>
+<a href="storia">storia</a>
+  <br>
 
