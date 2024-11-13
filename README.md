@@ -3,7 +3,7 @@
 <a href="indice.html"> indice
   <br>
   <br>
-<a href="copertina.html"> indice
+<a href="copertina.html"> copertina
   <br>
 
 
