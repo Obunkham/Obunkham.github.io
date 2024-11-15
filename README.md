@@ -94,7 +94,7 @@ il mouse,la tastiera e un monitor.
   <br>
   <A HREF="#aspetti positivi/negativi">aspetti positivi/negativi</A>
   <br>
-   <A HREF="#componenti hardware/software">componenti hardware/software</A>
+   <a href="#componenti hardware/software">componenti hardware/software</a>
   <br>
   <A HREF="#come comportarsi in rete">come comportarsi in rete</A>
   <br>
