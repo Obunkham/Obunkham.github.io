@@ -88,14 +88,13 @@ il mouse,la tastiera e un monitor.
 <h1>paragrafo8</h1>
 <h1>paragrafo9</h1>
 <h1>paragrafo10</h1>
-<A HREF="#storia">storia</A>
+<A HREF="#scienza">scienza</A>
   <br>
   <A HREF="#storia">storia</A>
   <br>
-  <A HREF="#storia">storia</A>
+  <A HREF="#aspetti positivi/negativi">aspetti positivi/negativi</A>
   <br>
-  <A HREF="#storia">storia</A>
+  <A HREF="#come comportarsi in rete">come comportarsi in rete</A>
   <br>
-  <A HREF="#storia">storia</A>
-  <br>
+ 
 
