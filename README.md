@@ -90,4 +90,12 @@ il mouse,la tastiera e un monitor.
 <h1>paragrafo10</h1>
 <A HREF="#storia">storia</A>
   <br>
+  <A HREF="#storia">storia</A>
+  <br>
+  <A HREF="#storia">storia</A>
+  <br>
+  <A HREF="#storia">storia</A>
+  <br>
+  <A HREF="#storia">storia</A>
+  <br>
 
