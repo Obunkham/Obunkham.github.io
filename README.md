@@ -92,7 +92,7 @@ il mouse,la tastiera e un monitor.
   <br>
   <a href="#storia">storia</a>
   <br>
-  <a href="#aspettipositivi/negativi">aspetti positivi/negativi</a>
+  <a href="#aspetti positivi/negativi">aspetti positivi/negativi</a>
   <br>
    <a href="#componenti hardware/software">componenti hardware/software</a>
   <br>
