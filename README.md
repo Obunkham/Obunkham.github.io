@@ -90,14 +90,18 @@ il mouse,la tastiera e un monitor.
 <h1>paragrafo10</h1>
 <a href="#scienza">scienza</a>
   <br>
+  
   <a href="#storia">storia</a>
   <br>
+  
   <a href="#aspetti-positivi/negativi">aspetti-positivi/negativi</a>
   <br>
-   <a href="#componenti-hardware/software">componenti-hardware/software</a>
-  <br>
+  
   <a href="#come comportarsi in rete">come comportarsi in rete</a>
   <br>
-
+  
+   <a href="#componenti-hardware/software">componenti-hardware/software</a>
+  <br>
+ 
  
 
