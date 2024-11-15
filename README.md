@@ -92,6 +92,7 @@ il mouse,la tastiera e un monitor.
   <br>
   
   
+  
   <a href="#storia">storia</a>
   <br>
   
