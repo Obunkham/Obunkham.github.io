@@ -74,7 +74,7 @@ In rete si deve fare attenzione a quello che si pubblica nei
 social media (immagini,video,foto,commenti) e anche a non
 cadere per gli scam
 <h1>paragrafo6</h1>
-<h1>componenti hardware/software</h1>
+<h1>componenti-hardware/software</h1>
 <img src="immagine69.jpeg">
 Il computer è composto da più componenti tra cui memorie
 come la RAM-ROM-CACHE.
@@ -94,7 +94,7 @@ il mouse,la tastiera e un monitor.
   <br>
   <a href="#aspetti-positivi/negativi">aspetti-positivi/negativi</a>
   <br>
-   <a href="#componenti hardware/software">componenti hardware/software</a>
+   <a href="#componenti-hardware/software">componenti-hardware/software</a>
   <br>
   <a href="#come comportarsi in rete">come comportarsi in rete</a>
   <br>
