@@ -47,7 +47,7 @@ La 4° rivoluzione industriale: l’
 invenzione del AI o IA la stampante
 3D
 <h1>paragrafo4</h1>
-<h1>aspetti positivi/negativi</h1>
+<h1>aspetti-positivi/negativi</h1>
 <img src="immagine3.jpeg">
 ASPETTI POSITIVI:
 
@@ -92,7 +92,7 @@ il mouse,la tastiera e un monitor.
   <br>
   <a href="#storia">storia</a>
   <br>
-  <a href="#aspetti positivi/negativi">aspetti positivi/negativi</a>
+  <a href="#aspetti-positivi/negativi">aspetti-positivi/negativi</a>
   <br>
    <a href="#componenti hardware/software">componenti hardware/software</a>
   <br>
