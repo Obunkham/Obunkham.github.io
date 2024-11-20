@@ -12,7 +12,7 @@
 <h1>paragrafo1</h1>
 
 <h1>scienza</h1>
-<img src="immagine.jpeg">
+<img src="immagine.jpeg"> <br>
 L’informatica ha bisogno anche di usare la scienza.
 Per esempio tutti i computer per essere costruiti
 devono avere dietro un processo di progettazione e
@@ -22,7 +22,7 @@ realizzazione
 
 <h1>paragrafo2</h1>
 <h1>storia</h1>
-<img src="immagine4.jpeg">
+<img src="immagine4.jpeg"> <br>
 Negli anni la tecnologia dei computer è migliorata parecchio.
 
 Abbiamo avuto diverse rivoluzioni industriali negli anni
@@ -36,7 +36,7 @@ La 2° rivoluzione industriale: inizia nel
 1870 viene scoperto il petrolio e
 l’elettricità
 
-<img src="immagine1.jpeg">
+<img src="immagine1.jpeg"> <br>
 
 La 3° rivoluzione industriale: avviene
 nel XX secolo l’uomo riesce ad
@@ -48,7 +48,7 @@ invenzione del AI o IA la stampante
 3D
 <h1>paragrafo3</h1>
 <h1>aspetti-positivi/negativi</h1>
-<img src="immagine3.jpeg">
+<img src="immagine3.jpeg"> <br>
 ASPETTI POSITIVI:
 
 L’internet può aiutare con informazioni utili
@@ -75,7 +75,7 @@ social media (immagini,video,foto,commenti) e anche a non
 cadere per gli scam
 <h1>paragrafo5</h1>
 <h1>componenti-hardware/software</h1>
-<img src="immagine69.jpeg">
+<img src="immagine69.jpeg"> <br>
 Il computer è composto da più componenti tra cui memorie
 come la RAM-ROM-CACHE.
 
