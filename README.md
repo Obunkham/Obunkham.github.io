@@ -81,7 +81,7 @@ come la RAM-ROM-CACHE.
 
 Ogni computer ha anche un sistema operativo diverso
 es:Ubuntu,Windows,Linux ecc.
-<h1>hardwer</h1> scheda madre <img src="immagine10.jpeg"> <br>
+<h1>hardwer</h1> scheda madre <br> <img src="immagine10.jpeg"> <br>
 periferiche input-output-input e output
 <h1>software</h1> BIOS applicazioni sistema operativo
 
