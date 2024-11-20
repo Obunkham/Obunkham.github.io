@@ -90,6 +90,7 @@ il mouse,la tastiera e un monitor.
 CAPITOLO 3
 codifiche ascip collegata alla tastiera codifica dei numeri (interi e reali) codifica immagini e audio
 <h1>paragrafo7</h1>
+porte schede video scheda rj45 per internet scheda ethernet
 <h1>paragrafo8</h1>
 <h1>paragrafo9</h1>
 <h1>paragrafo10</h1>
