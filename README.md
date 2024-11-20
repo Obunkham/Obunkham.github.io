@@ -86,8 +86,9 @@ es:Ubuntu,Windows,Linux ecc.
 
 Per usare un computer servono anche componenti esterne come
 il mouse,la tastiera e un monitor.
+
+<h1>CAPITOLO 3</h1>
 <h1>paragrafo6</h1>
-CAPITOLO 3
 codifiche ascip collegata alla tastiera codifica dei numeri (interi e reali) codifica immagini e audio
 <h1>paragrafo7</h1>
 porte schede video scheda rj45 per internet scheda ethernet
