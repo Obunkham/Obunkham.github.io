@@ -37,7 +37,7 @@ La 2° rivoluzione industriale: inizia nel
 l’elettricità
 
 <img src="immagine1.jpeg">
-<h1>paragrafo3</h1>
+
 La 3° rivoluzione industriale: avviene
 nel XX secolo l’uomo riesce ad
 andare nello spazio e scopre
@@ -46,7 +46,7 @@ l’energia a fonte rinnovabile
 La 4° rivoluzione industriale: l’
 invenzione del AI o IA la stampante
 3D
-<h1>paragrafo4</h1>
+<h1>paragrafo3</h1>
 <h1>aspetti-positivi/negativi</h1>
 <img src="immagine3.jpeg">
 ASPETTI POSITIVI:
@@ -68,12 +68,12 @@ I problemi di privacy
 
 Fake news/scam
 
-<h1>paragrafo5</h1>
+<h1>paragrafo4</h1>
 <h1>come comportarsi in rete</h1>
 In rete si deve fare attenzione a quello che si pubblica nei
 social media (immagini,video,foto,commenti) e anche a non
 cadere per gli scam
-<h1>paragrafo6</h1>
+<h1>paragrafo5</h1>
 <h1>componenti-hardware/software</h1>
 <img src="immagine69.jpeg">
 Il computer è composto da più componenti tra cui memorie
@@ -81,9 +81,14 @@ come la RAM-ROM-CACHE.
 
 Ogni computer ha anche un sistema operativo diverso
 es:Ubuntu,Windows,Linux ecc.
+<h1>hardwer</h1> scheda madre periferiche input-output-input e output
+<h1>software</h1> BIOS applicazioni sistema operativo
 
 Per usare un computer servono anche componenti esterne come
 il mouse,la tastiera e un monitor.
+<h1>paragrafo6</h1>
+CAPITOLO 3
+codifiche ascip collegata alla tastiera codifica dei numeri (interi e reali) codifica immagini e audio
 <h1>paragrafo7</h1>
 <h1>paragrafo8</h1>
 <h1>paragrafo9</h1>
