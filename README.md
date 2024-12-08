@@ -96,7 +96,8 @@ il mouse,la tastiera e un monitor.
 e collegata alla tastiera codifica dei numeri (interi e reali) con la codifica immagini e audio
 <h1>paragrafo7</h1>
 <h1>porta rj45</h1> <br>
-porte schede video scheda rj45 <img src="rj45.jpeg"> <br> 
+<img src="rj45.jpeg"> <br>
+porte schede video scheda rj45
 per internet scheda ethernet
 <h1>paragrafo8</h1>
 <h1>occupazione di memoria immagini</h1>
