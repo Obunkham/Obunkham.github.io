@@ -91,7 +91,8 @@ il mouse,la tastiera e un monitor.
 <h1>CAPITOLO 3</h1>
 <h1>paragrafo6</h1>
 <h1>codifiche ASCII</h1> <br> 
-(American Standard Code for Information Interchange) <img src="ASCII.jpeg"> <br> 
+<img src="ASCII.jpeg">  <br>
+(American Standard Code for Information Interchange) <img src="ASCII.jpeg">  
 e collegata alla tastiera codifica dei numeri (interi e reali) con la codifica immagini e audio
 <h1>paragrafo7</h1>
 <h1>porta rj45</h1> <br>
