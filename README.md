@@ -129,12 +129,13 @@ porte schede video scheda rj45 <img src="rj45.jpeg"> per internet scheda etherne
 <tr><td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">16 milioni</td>
 	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">24 bit = 3 byte
 	</p> <br>
+ <br>
 
 <p>Ogni pixel può assumere 256 valori PER CIASCUNO DEI TRE COLORI, quindi, per ogni colore: 256 valori = 8 bit (2 elevato a 8 = 256) = 1 byte, e dunque 1 pixel = 3 byte.</td>
 	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">BH*3</td>
-	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">1.440.000 byte = 1,4 MB</td></tr>
+	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">1.440.000 byte = 1,4 MB</td></tr> 
 
-</table></center>
+</table></center> </b>.</p>
 
 <font face="ARIAL">
 
