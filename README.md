@@ -98,7 +98,8 @@ e collegata alla tastiera codifica dei numeri (interi e reali) con la codifica i
 porte schede video scheda rj45 <img src="rj45.jpeg"> per internet scheda ethernet
 <h1>paragrafo8</h1>
 <h1>occupazione di memoria immagini</h1>
-</p><center><table ALIGN="CENTER" Width="100%" border="1" bordercolorlight="#C0C0C0" bordercolordark="#808080"><tr><td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana"><i>Numero di colori</i></td>
+</p>
+<center><table ALIGN="CENTER" Width="100%" border="1" bordercolorlight="#C0C0C0" bordercolordark="#808080"><tr><td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana"><i>Numero di colori</i></td>
 	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana"><i>bit e byte necessari per un pixel</i></td>
 	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana"><i>byte totali per un'immagine di base B e altezza H (B e H misurati in pixel)</i></td>
 	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana"><i>Esempio: byte totali per un'immagine 800*600 pixel (schermata del monitor)</i></td></tr>
@@ -126,7 +127,8 @@ porte schede video scheda rj45 <img src="rj45.jpeg"> per internet scheda etherne
 	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">480.000 byte</td></tr>
 
 <tr><td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">16 milioni</td>
-	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">24 bit = 3 byte</p>
+	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">24 bit = 3 byte
+	</p>
 
 <p>Ogni pixel può assumere 256 valori PER CIASCUNO DEI TRE COLORI, quindi, per ogni colore: 256 valori = 8 bit (2 elevato a 8 = 256) = 1 byte, e dunque 1 pixel = 3 byte.</td>
 	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">BH*3</td>
