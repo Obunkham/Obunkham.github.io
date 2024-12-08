@@ -98,39 +98,18 @@ e collegata alla tastiera codifica dei numeri (interi e reali) con la codifica i
 porte schede video scheda rj45 <img src="rj45.jpeg"> per internet scheda ethernet
 <h1>paragrafo8</h1>
 <h1>occupazione di memoria immagini</h1>
-<center><table ALIGN="CENTER" Width="100%" border="1" bordercolorlight="#C0C0C0" bordercolordark="#808080"><tr><td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana"><i>Numero di colori</i></td>
-	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana"><i>bit e byte necessari per un pixel</i></td>
-	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana"><i>byte totali per un'immagine di base B e altezza H (B e H misurati in pixel)</i></td>
-	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana"><i>Esempio: byte totali per un'immagine 800*600 pixel (schermata del monitor)</i></td></tr>
-
-<tr><td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">2<BR>
-(solo bianco e nero, disegni <i>al tratto</i>)</td>
-	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">1 bit = 1/8 di byte</p>
-
-<p><small>Infatti 2 elevato a 1 = 2</small></td>
-	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">BH/8</td>
-	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">60.000 byte</td></tr>
-
-<tr><td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">16</td>
-	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">4 bit = mezzo byte</p>
-
-<p><small>Infatti 2 elevato a 4 = 16</small></td>
-	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">BH/2</td>
-	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">240.000 byte</td></tr>
-
-<tr><td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">256</td>
-	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">8 bit = 1 byte</p>
-
-<p><small>Infatti 2 elevato a 8 = 256</small></td>
-	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">BH</td>
-	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">480.000 byte</td></tr>
-
-<tr><td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">16 milioni</td>
-	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">24 bit = 3 byte</p>
-
-<p>Ogni pixel può assumere 256 valori PER CIASCUNO DEI TRE COLORI, quindi, per ogni colore: 256 valori = 8 bit (2 elevato a 8 = 256) = 1 byte, e dunque 1 pixel = 3 byte.</td>
-	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">BH*3</td>
-	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">1.440.000 byte = 1,4 MB</td></tr> </table></center> <br>
+<table> <!-- Inizia la tabella -->
+<tr> <!-- Inizia la prima riga -->
+<td>Cella 1</td> <!-- Prima colonna -->
+<td>Cella 2</td> <!-- Seconda colonna -->
+<td>Cella 3</td> <!-- Terza colonna -->
+</tr> <!-- Fine della prima riga -->
+<tr> <!-- Inizia la seconda riga -->
+<td>Cella 4</td> <!-- Prima colonna -->
+<td>Cella 5</td> <!-- Seconda colonna -->
+<td>Cella 6</td> <!-- Terza colonna -->
+</tr> <!-- Fine della seconda riga -->
+</table> <!-- Fine della tabella -->
 <h1>paragrafo9</h1>
 <h1>paragrafo10</h1>
 <a href="#scienza">scienza</a>
