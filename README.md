@@ -142,8 +142,7 @@ per internet scheda ethernet
 
 
 
-<h1>paragrafo9</h1>
-<h1>paragrafo10</h1>
+
 <a href="#scienza">scienza</a>
   <br>
   <br>
