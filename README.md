@@ -100,6 +100,7 @@ per internet scheda ethernet
 <h1>paragrafo8</h1>
 <h1>occupazione di memoria immagini</h1>
 </p>
+
 <center><table ALIGN="CENTER" Width="100%" border="1" bordercolorlight="#C0C0C0" bordercolordark="#808080"><tr><td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana"><i>Numero di colori</i></td>
 	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana"><i>bit e byte necessari per un pixel</i></td>
 	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana"><i>byte totali per un'immagine di base B e altezza H (B e H misurati in pixel)</i></td>
@@ -128,19 +129,16 @@ per internet scheda ethernet
 	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">480.000 byte</td></tr>
 
 <tr><td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">16 milioni</td>
-	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">24 bit = 3 byte
-	</p> <br>
- <br>
+	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">24 bit = 3 byte</p>
 
 <p>Ogni pixel può assumere 256 valori PER CIASCUNO DEI TRE COLORI, quindi, per ogni colore: 256 valori = 8 bit (2 elevato a 8 = 256) = 1 byte, e dunque 1 pixel = 3 byte.</td>
 	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">BH*3</td>
-	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">1.440.000 byte = 1,4 MB</td></tr> 
+	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">1.440.000 byte = 1,4 MB</td></tr>
 
-</table></center> </b>.</p>
+</table></center>
 
 <font face="ARIAL">
-
-
+<p>Come si vede dall'esempio, il numero di colori incide <i>significativamente </i>sull'occupazione di memoria. La prima regola da seguire è allora quella di <b>salvare l'immagine con il minimo numero di colori compatibile con le sue caratteristiche e il suo uso</b>.</p>
 <h1>paragrafo9</h1>
 <h1>paragrafo10</h1>
 <a href="#scienza">scienza</a>
