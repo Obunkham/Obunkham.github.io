@@ -99,8 +99,7 @@ porte schede video scheda rj45 <img src="rj45.jpeg"> per internet scheda etherne
 <h1>paragrafo8</h1>
 <h1>occupazione di memoria immagini</h1>
 
-</p>
-<center><table ALIGN="CENTER" Width="100%" border="1" bordercolorlight="#C0C0C0" bordercolordark="#808080"><tr><td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana"><i>Numero di colori</i></td>
+</p><center><table ALIGN="CENTER" Width="100%" border="1" bordercolorlight="#C0C0C0" bordercolordark="#808080"><tr><td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana"><i>Numero di colori</i></td>
 	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana"><i>bit e byte necessari per un pixel</i></td>
 	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana"><i>byte totali per un'immagine di base B e altezza H (B e H misurati in pixel)</i></td>
 	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana"><i>Esempio: byte totali per un'immagine 800*600 pixel (schermata del monitor)</i></td></tr>
