@@ -141,7 +141,8 @@ per internet scheda ethernet
 
 <font face="ARIAL">
 <p>Come si vede dall'esempio, il numero di colori incide <i>significativamente </i>sull'occupazione di memoria. La prima regola da seguire è allora quella di <b>salvare l'immagine con il minimo numero di colori compatibile con le sue caratteristiche e il suo uso</b>.</p> <br>
-
+<h1>Capitolo 4</h1>
+<h1>Paragrafo 7</h1>
 
 
 
