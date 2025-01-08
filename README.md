@@ -67,7 +67,7 @@ Il cyber bullismo
 I problemi di privacy
 
 Fake news/scam
-
+<h1>capitolo 2</h1>
 <h1>paragrafo4</h1>
 <h1>come comportarsi in rete</h1>
 In rete si deve fare attenzione a quello che si pubblica nei
