@@ -98,7 +98,7 @@ e collegata alla tastiera codifica dei numeri (interi e reali) con la codifica i
 <h1>porta rj45</h1> <br>
 <img src="rj45.jpeg"> <br>
 porte schede video scheda rj45
-per internet scheda ethernet
+per internet scheda ethernet,quindi é necessario per ricevere wifi via un ruter
 <h1>paragrafo8</h1>
 <h1>occupazione di memoria immagini</h1>
 </p>
