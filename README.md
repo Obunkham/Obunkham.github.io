@@ -87,6 +87,7 @@ periferiche input-output
 
 Per usare un computer servono anche componenti esterne come
 il mouse,la tastiera e un monitor.
+viene azionato usando un comando che viene eseguito usando delle informazioni che vengono eseguite solo se il rpogramma 
 
 <h1>CAPITOLO 3</h1>
 <h1>paragrafo6</h1>
