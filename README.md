@@ -82,7 +82,9 @@ come la RAM-ROM-CACHE.
 Ogni computer ha anche un sistema operativo diverso
 es:Ubuntu,Windows,Linux ecc.
 <h1>hardwer</h1> scheda madre <br> <img src="immagine10.jpeg"> <br>
-periferiche input-output
+periferiche input-output <br>
+la CPU é la componente é il processore necessaria per l'elaborazione delle informazioni e dei programmi <br>
+la RAM, piú é pesante il programma piú memoria ram servirá di solito é necessario solo 8 GB ma potrebbe arrivare anche fino ai 16 GB
 <h1>software</h1> BIOS applicazioni sistema operativo
 
 Per usare un computer servono anche componenti esterne come
@@ -98,8 +100,8 @@ e collegata alla tastiera codifica dei numeri (interi e reali) con la codifica i
 <h1>paragrafo7</h1>
 <h1>porta rj45</h1> <br>
 <img src="rj45.jpeg"> <br>
-porte schede video scheda rj45
-per internet scheda ethernet,quindi é necessario per ricevere wifi via un ruter
+la porta rj45 é necessaria per collegare un ruter a un pc per via cablata.
+non é obbligatoria ma la differenza tra una connesione senza cavo e con é gigantesca.
 <h1>paragrafo8</h1>
 <h1>occupazione di memoria immagini</h1>
 
