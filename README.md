@@ -112,7 +112,7 @@ non é obbligatoria ma la differenza tra una connesione senza cavo e con é giga
 <h1>paragrafo8</h1>
 <h1>occupazione di memoria immagini</h1>
 
-
+<p>
 <center>
 	<table ALIGN="CENTER" Width="100%" border="1" bordercolorlight="#C0C0C0" bordercolordark="#808080"><tr><td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana"><i>Numero di colori</i></td>
 	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana"><i>bit e byte necessari per un pixel</i></td>
