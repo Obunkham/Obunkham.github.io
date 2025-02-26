@@ -70,6 +70,7 @@ Fake news/scam
 <h1>capitolo 2</h1>
 <h1>paragrafo4</h1>
 <h1>come comportarsi in rete</h1>
+<img src="HAKER.jpeg"> <br>
 In rete si deve fare attenzione a quello che si pubblica nei
 social media (immagini,video,foto,commenti) e anche a non
 cadere per gli scam
