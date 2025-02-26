@@ -91,7 +91,7 @@ la RAM, piú é pesante il programma piú memoria ram servirá di solito é nece
 la GPU elabora grandi gruppi di dati e informazioni e serve fondamentalmente per il 3D. <br>
 <img src="PSU.jpeg"> <br>
 la PSU serve per l'alimentazione del computer in base alle altre componenti richiederá meno o piú alimentazione.
-<h1>software</h1> BIOS applicazioni sistema operativo
+<h1>software</h1> BIOS applicazioni sistema operativo <br>
 <img src="BIOS.jpeg"> <br>
 
 Per usare un computer servono anche componenti esterne come
