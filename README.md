@@ -92,6 +92,7 @@ la GPU elabora grandi gruppi di dati e informazioni e serve fondamentalmente per
 <img src="PSU.jpeg"> <br>
 la PSU serve per l'alimentazione del computer in base alle altre componenti richiederá meno o piú alimentazione.
 <h1>software</h1> BIOS applicazioni sistema operativo
+<img src="BIOS.jpeg"> <br>
 
 Per usare un computer servono anche componenti esterne come
 il mouse,la tastiera e un monitor.
