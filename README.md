@@ -87,7 +87,7 @@ periferiche input-output <br>
 la CPU é la componente é il processore necessaria per l'elaborazione delle informazioni e dei programmi <br>
 <img src="RAM.jpeg"> <br>
 la RAM, piú é pesante il programma piú memoria ram servirá di solito é necessario solo 8 GB ma potrebbe arrivare anche fino ai 16 GB.
-<img src="GPU.jpeg"> >br>
+<img src="GPU.jpeg"> <br>
 la GPU elabora grandi gruppi di dati e informazioni e serve fondamentalmente per il 3D.
 <img src="PSU.jpeg"> <br>
 la PSU serve per l'alimentazione del computer in base alle altre componenti richiederá meno o piú alimentazione.
