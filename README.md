@@ -83,13 +83,13 @@ Ogni computer ha anche un sistema operativo diverso
 es:Ubuntu,Windows,Linux ecc.
 <h1>hardwer</h1> scheda madre <br> <img src="immagine10.jpeg"> <br>
 periferiche input-output <br>
-<img src="CPU.jpeg">
+<img src="CPU.jpeg"> <br>
 la CPU é la componente é il processore necessaria per l'elaborazione delle informazioni e dei programmi <br>
-<img src="RAM.jpeg">
+<img src="RAM.jpeg"> <br>
 la RAM, piú é pesante il programma piú memoria ram servirá di solito é necessario solo 8 GB ma potrebbe arrivare anche fino ai 16 GB.
-<img src="GPU.jpeg">
+<img src="GPU.jpeg"> >br>
 la GPU elabora grandi gruppi di dati e informazioni e serve fondamentalmente per il 3D.
-<img src="PSU.jpeg">
+<img src="PSU.jpeg"> <br>
 la PSU serve per l'alimentazione del computer in base alle altre componenti richiederá meno o piú alimentazione.
 <h1>software</h1> BIOS applicazioni sistema operativo
 
