@@ -16,7 +16,7 @@
 L’informatica ha bisogno anche di usare la scienza.
 Per esempio tutti i computer per essere costruiti
 devono avere dietro un processo di progettazione e
-realizzazione
+realizzazione complesso composto da diversi codici come il "codice binario"
 
 
 
