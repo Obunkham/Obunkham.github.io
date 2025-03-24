@@ -27,7 +27,7 @@ body {
 
 <h1>scienza</h1>
 <img src="immagine.jpeg"> <br>
-L’informatica ha bisogno anche di usare la scienza.
+<p style="color:white;">L’informatica ha bisogno anche di usare la scienza.
 Per esempio tutti i computer per essere costruiti
 devono avere dietro un processo di progettazione e
 realizzazione complesso composto da diversi codici come il "codice binario"
@@ -130,6 +130,7 @@ non é obbligatoria ma la differenza tra una connesione senza cavo e con é giga
 <h1>Capitolo 4</h1>
 	CODIFICHE
 <h1>Paragrafo 7</h1>
+</p>
 </body>
 </html>
 
