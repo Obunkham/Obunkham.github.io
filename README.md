@@ -6,7 +6,14 @@
 <a href="copertina.html"> copertina
   <br>
 
-
+<style>
+body {
+  background-image: url('img_immagine.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+</style>
 
 
 <h1>paragrafo1</h1>
