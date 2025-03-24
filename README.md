@@ -1,5 +1,17 @@
 # Obunkham.github.io
-
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-image: url('img_black.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
+</style>
+</head>
+<body>
 <br>
 <a href="indice.html"> indice
   
@@ -7,18 +19,7 @@
 <a href="copertina.html"> copertina<br>
   <br>
 
-<html>
-<head>
-<style>
-body {
-  background-image: url('img_immagine.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100% 100%;
-}
-</style>
-</head>
-<body>
+
 
 
 <h1>paragrafo1</h1>
@@ -128,9 +129,6 @@ non é obbligatoria ma la differenza tra una connesione senza cavo e con é giga
 <h1>Capitolo 4</h1>
 	CODIFICHE
 <h1>Paragrafo 7</h1>
-
-</body>
-</html>
 
 <a href="#scienza">scienza</a>
   <br>
