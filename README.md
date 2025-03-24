@@ -1,11 +1,12 @@
 # Obunkham.github.io
+<!DOCTYPE html>
 <br>
 <a href="indice.html"> indice
   
   <br>
 <a href="copertina.html"> copertina<br>
   <br>
-<!DOCTYPE html>
+
 <html>
 <head>
 <style>
