@@ -23,7 +23,7 @@ body {
 </style>
 </head>
 <body>
-<h1>paragrafo1</h1>
+<p style="color:white;"><h1>paragrafo1</h1>
 
 <h1>scienza</h1>
 <img src="immagine.jpeg"> <br>
@@ -34,10 +34,10 @@ realizzazione complesso composto da diversi codici come il "codice binario"
 
 
 
-<h1>paragrafo2</h1>
+<p style="color:white;"><h1>paragrafo2</h1>
 <h1>storia</h1>
 <img src="immagine4.jpeg"> <br>
-Negli anni la tecnologia dei computer è migliorata parecchio.
+<p style="color:white;">Negli anni la tecnologia dei computer è migliorata parecchio.
 
 Abbiamo avuto diverse rivoluzioni industriali negli anni
 
@@ -52,7 +52,7 @@ l’elettricità <br>
 
 <img src="immagine1.jpeg"> <br>
 
-La 3° rivoluzione industriale: avviene
+<p style="color:white;">La 3° rivoluzione industriale: avviene
 nel XX secolo l’uomo riesce ad
 andare nello spazio e scopre
 l’energia a fonte rinnovabile
@@ -60,10 +60,10 @@ l’energia a fonte rinnovabile
 La 4° rivoluzione industriale: l’
 invenzione del AI o IA la stampante
 3D
-<h1>paragrafo3</h1>
+<p style="color:white;"><h1>paragrafo3</h1>
 <h1>aspetti-positivi/negativi</h1>
 <img src="immagine3.jpeg"> <br>
-ASPETTI POSITIVI:
+<p style="color:white;">ASPETTI POSITIVI:
 
 L’internet può aiutare con informazioni utili
 
@@ -81,20 +81,20 @@ Il cyber bullismo
 I problemi di privacy
 
 Fake news/scam
-<h1>capitolo 2</h1>
-<h1>paragrafo4</h1>
+<p style="color:white;"><h1>capitolo 2</h1>
+<p style="color:white;"><h1>paragrafo4</h1>
 <h1>come comportarsi in rete</h1>
 <img src="HAKER.jpeg"> <br>
-In rete si deve fare attenzione a quello che si pubblica nei
+<p style="color:white;">In rete si deve fare attenzione a quello che si pubblica nei
 social media (immagini,video,foto,commenti) e anche a non
 cadere per gli scam
 <h1>paragrafo5</h1>
 <h1>componenti-hardware/software</h1>
 <img src="immagine69.jpeg"> <br>
-Il computer è composto da più componenti tra cui memorie
+<p style="color:white;">Il computer è composto da più componenti tra cui memorie
 come la RAM-ROM-CACHE.
 
-Ogni computer ha anche un sistema operativo diverso
+<p style="color:white;">Ogni computer ha anche un sistema operativo diverso
 es:Ubuntu,Windows,Linux ecc.
 <h1>hardwer</h1> scheda madre <br> <img src="immagine10.jpeg"> <br>
 periferiche input-output <br>
@@ -109,15 +109,15 @@ la PSU serve per l'alimentazione del computer in base alle altre componenti rich
 <h1>software</h1> BIOS applicazioni sistema operativo <br>
 <img src="BIOS.jpeg"> <br>
 
-Per usare un computer servono anche componenti esterne come
+<p style="color:white;">Per usare un computer servono anche componenti esterne come
 il mouse,la tastiera e un monitor.
 viene azionato usando un comando che viene eseguito usando delle informazioni che vengono eseguite solo se il rpogramma 
 
-<h1>CAPITOLO 3</h1>
-<h1>paragrafo6</h1>
+<p style="color:white;"><h1>CAPITOLO 3</h1>
+<p style="color:white;"><h1>paragrafo6</h1>
 <h1>codifiche ASCII</h1> <br> 
 <img src="ASCII.jpeg">  <br>
-(American Standard Code for Information Interchange)
+<p style="color:white;">(American Standard Code for Information Interchange)
 e collegata alla tastiera codifica dei numeri (interi e reali) con la codifica immagini e audio
 <h1>paragrafo7</h1>
 <h1>porta rj45</h1> <br>
@@ -127,9 +127,9 @@ non é obbligatoria ma la differenza tra una connesione senza cavo e con é giga
 <h1>paragrafo8</h1>
 <h1>occupazione di memoria immagini</h1>
 
-<h1>Capitolo 4</h1>
+<p style="color:white;"><h1>Capitolo 4</h1>
 	CODIFICHE
-<h1>Paragrafo 7</h1>
+<p style="color:white;"><h1>Paragrafo 7</h1>
 </p>
 </body>
 </html>
