@@ -6,7 +6,18 @@
 <a href="copertina.html"> copertina
   <br>
 
-
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+<style>
+body {
+  background-image: url('img_immagine.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+</style>
 
 <h1>paragrafo1</h1>
 
@@ -116,14 +127,6 @@ non é obbligatoria ma la differenza tra una connesione senza cavo e con é giga
 	CODIFICHE
 <h1>Paragrafo 7</h1>
 
-<style>
-body {
-  background-image: url('img_immagine.jpeg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100% 100%;
-}
-</style>
 
 <a href="#scienza">scienza</a>
   <br>
@@ -142,5 +145,6 @@ body {
   <br>
  
  
-
+</body>
+</html>
 
