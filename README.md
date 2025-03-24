@@ -1,17 +1,5 @@
 # Obunkham.github.io
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-body {
-  background-image: url('img_black.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed; 
-  background-size: 100% 100%;
-}
-</style>
-</head>
-<body>
+
 
  
 <br>
@@ -23,7 +11,18 @@ body {
 
 
 
-
+<html>
+<head>
+<style>
+body {
+  background-image: url('img_black.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+</style>
+</head>
+<body>
 <h1>paragrafo1</h1>
 
 <h1>scienza</h1>
@@ -131,6 +130,8 @@ non é obbligatoria ma la differenza tra una connesione senza cavo e con é giga
 <h1>Capitolo 4</h1>
 	CODIFICHE
 <h1>Paragrafo 7</h1>
+</body>
+</html>
 
 <a href="#scienza">scienza</a>
   <br>
@@ -149,6 +150,3 @@ non é obbligatoria ma la differenza tra una connesione senza cavo e con é giga
   <br>
  
  
-</body>
-</html>
-
