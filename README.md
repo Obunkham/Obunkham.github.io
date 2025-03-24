@@ -23,9 +23,9 @@ body {
 </style>
 </head>
 <body>
-<h1><p style="color:white;">paragrafo1</h1>
+<h1><p style="color:white;">paragrafo1<br>
 
-<h1><p style="color:white;">scienza</h1>
+<h1><p style="color:white;">scienza<br>
 <img src="immagine.jpeg"> <br>
 <p style="color:white;">L’informatica ha bisogno anche di usare la scienza.
 Per esempio tutti i computer per essere costruiti
@@ -34,8 +34,8 @@ realizzazione complesso composto da diversi codici come il "codice binario"
 
 
 
-<h1><p style="color:white;">paragrafo2</h1>
-<h1><p style="color:white;">storia</h1>
+<h1><p style="color:white;">paragrafo2<br>
+<h1><p style="color:white;">storia<br>
 <img src="immagine4.jpeg"> <br>
 <p style="color:white;">Negli anni la tecnologia dei computer è migliorata parecchio.
 
@@ -60,8 +60,8 @@ l’energia a fonte rinnovabile
 La 4° rivoluzione industriale: l’
 invenzione del AI o IA la stampante
 3D
-<h1><p style="color:white;">paragrafo3</h1>
-<h1></h1><p style="color:white;"><aspetti-positivi/negativi</h1>
+<h1><p style="color:white;">paragrafo3<br>
+<h1></h1><p style="color:white;"><aspetti-positivi/negativi<br>
 <img src="immagine3.jpeg"> <br>
 <p style="color:white;">ASPETTI POSITIVI:
 
@@ -81,8 +81,8 @@ Il cyber bullismo
 I problemi di privacy
 
 Fake news/scam
-<h1><p style="color:white;">capitolo 2</h1>
-<h1><p style="color:white;">paragrafo4</h1>
+<h1><p style="color:white;">capitolo 2<br>
+<h1><p style="color:white;">paragrafo4<br>
 <h1>come comportarsi in rete</h1>
 <img src="HAKER.jpeg"> <br>
 <p style="color:white;">In rete si deve fare attenzione a quello che si pubblica nei
@@ -96,17 +96,17 @@ come la RAM-ROM-CACHE.
 
 <p style="color:white;">Ogni computer ha anche un sistema operativo diverso
 es:Ubuntu,Windows,Linux ecc.
-<h1>hardwer</h1> scheda madre <br> <img src="immagine10.jpeg"> <br>
-periferiche input-output <br>
+<h1><p style="color:white;">hardwer<br><h1><p style="color:white;"> scheda madre <br> <img src="immagine10.jpeg"> <br>
+<h1><p style="color:white;">periferiche input-output <br>
 <img src="CPU.jpeg"> <br>
-la CPU é la componente é il processore necessaria per l'elaborazione delle informazioni e dei programmi <br>
+<h1><p style="color:white;">la CPU é la componente é il processore necessaria per l'elaborazione delle informazioni e dei programmi <br>
 <img src="RAM.jpeg"> <br>
-la RAM, piú é pesante il programma piú memoria ram servirá di solito é necessario solo 8 GB ma potrebbe arrivare anche fino ai 16 GB. <br>
+<h1><p style="color:white;">la RAM, piú é pesante il programma piú memoria ram servirá di solito é necessario solo 8 GB ma potrebbe arrivare anche fino ai 16 GB. <br>
 <img src="GPU.jpeg"> <br>
-la GPU elabora grandi gruppi di dati e informazioni e serve fondamentalmente per il 3D. <br>
+<h1><p style="color:white;">la GPU elabora grandi gruppi di dati e informazioni e serve fondamentalmente per il 3D. <br>
 <img src="PSU.jpeg"> <br>
-la PSU serve per l'alimentazione del computer in base alle altre componenti richiederá meno o piú alimentazione.
-<h1>software</h1> BIOS applicazioni sistema operativo <br>
+<h1><p style="color:white;">la PSU serve per l'alimentazione del computer in base alle altre componenti richiederá meno o piú alimentazione.
+<h1><p style="color:white;">software BIOS applicazioni sistema operativo <br>
 <img src="BIOS.jpeg"> <br>
 
 <p style="color:white;">Per usare un computer servono anche componenti esterne come
