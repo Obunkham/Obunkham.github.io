@@ -15,7 +15,7 @@
 <head>
 <style>
 body {
-  background-image: url('img_black.jpg');
+  background-image: url('black.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;  
   background-size: cover;
