@@ -6,14 +6,6 @@
 <a href="copertina.html"> copertina
   <br>
 
-<style>
-body {
-  background-image: url('img_immagine.jpeg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100% 100%;
-}
-</style>
 
 
 <h1>paragrafo1</h1>
@@ -119,54 +111,18 @@ la porta rj45 é necessaria per collegare un ruter a un pc per via cablata.
 non é obbligatoria ma la differenza tra una connesione senza cavo e con é gigantesca.
 <h1>paragrafo8</h1>
 <h1>occupazione di memoria immagini</h1>
-<table>
-<p>
-<center>
-	<i>
-		<td>
-			<tr>
-	<table ALIGN="CENTER" Width="100%" border="1" bordercolorlight="#C0C0C0" bordercolordark="#808080"><tr><td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana"><i>Numero di colori</i></td>
-	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana"><i>bit e byte necessari per un pixel</i></td>
-	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana"><i>byte totali per un'immagine di base B e altezza H (B e H misurati in pixel)</i></td>
-	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana"><i>Esempio: byte totali per un'immagine 800*600 pixel (schermata del monitor)</i></td></tr>
 
-<tr><td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">2<BR>
-(solo bianco e nero, disegni <i>al tratto</i>)</td>
-	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">1 bit = 1/8 di byte</p>
-
-<p><small>Infatti 2 elevato a 1 = 2</small></td>
-	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">BH/8</td>
-	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">60.000 byte</td></tr>
-
-<tr><td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">16</td>
-	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">4 bit = mezzo byte</p>
-
-<p><small>Infatti 2 elevato a 4 = 16</small></td>
-	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">BH/2</td>
-	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">240.000 byte</td></tr>
-
-<tr><td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">256</td>
-	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">8 bit = 1 byte</p>
-
-<p><small>Infatti 2 elevato a 8 = 256</small></td>
-	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">BH</td>
-	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">480.000 byte</td></tr>
-
-<tr><td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">16 milioni</td>
-	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">24 bit = 3 byte</p>
-
-<p>Ogni pixel può assumere 256 valori PER CIASCUNO DEI TRE COLORI, quindi, per ogni colore: 256 valori = 8 bit (2 elevato a 8 = 256) = 1 byte, e dunque 1 pixel = 3 byte.</td>
-	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">BH*3</td>
-	<td  bgcolor="#E0E0E0" ALIGN=CENTER ><FONT face="Verdana">1.440.000 byte = 1,4 MB</td></tr>
-
-</table></center>
-
-<font face="ARIAL">
-<p>Come si vede dall'esempio, il numero di colori incide <i>significativamente </i>sull'occupazione di memoria. La prima regola da seguire è allora quella di <b>salvare l'immagine con il minimo numero di colori compatibile con le sue caratteristiche e il suo uso</b>. <br>
 <h1>Capitolo 4</h1>
 	CODIFICHE
 <h1>Paragrafo 7</h1>
 
+<style>
+body {
+  background-image: url('img_immagine.jpeg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
 </style>
 
 <a href="#scienza">scienza</a>
