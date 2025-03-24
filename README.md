@@ -1,5 +1,5 @@
 # Obunkham.github.io
-<!DOCTYPE html>
+
 <br>
 <a href="indice.html"> indice
   
@@ -17,6 +17,9 @@ body {
   background-size: 100% 100%;
 }
 </style>
+</head>
+<body>
+
 
 <h1>paragrafo1</h1>
 
