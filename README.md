@@ -7,7 +7,7 @@
   <br>
 
 
- <id div="back">
+
 
 <h1>paragrafo1</h1>
 
@@ -159,9 +159,8 @@ non é obbligatoria ma la differenza tra una connesione senza cavo e con é giga
 <h1>Capitolo 4</h1>
 	CODIFICHE
 <h1>Paragrafo 7</h1>
-#back{
-background-color:black;
-}
+
+</style>
 
 <a href="#scienza">scienza</a>
   <br>
