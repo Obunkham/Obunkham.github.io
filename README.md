@@ -48,7 +48,7 @@ mezzi di trasporto
 
 La 2° rivoluzione industriale: inizia nel
 1870 viene scoperto il petrolio e
-l’elettricità
+l’elettricità <br>
 
 <img src="immagine1.jpeg"> <br>
 
