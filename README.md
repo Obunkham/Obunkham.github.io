@@ -3,13 +3,11 @@
 <a href="indice.html"> indice
   
   <br>
-<a href="copertina.html"> copertina
+<a href="copertina.html"> copertina<br>
   <br>
-
 <!DOCTYPE html>
 <html>
 <head>
-<style>
 <style>
 body {
   background-image: url('img_immagine.jpeg');
@@ -127,6 +125,8 @@ non é obbligatoria ma la differenza tra una connesione senza cavo e con é giga
 	CODIFICHE
 <h1>Paragrafo 7</h1>
 
+</body>
+</html>
 
 <a href="#scienza">scienza</a>
   <br>
