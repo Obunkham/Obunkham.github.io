@@ -12,8 +12,10 @@ body {
 </style>
 </head>
 <body>
+
+ 
 <br>
-<a href="indice.html"> indice
+<a href="indice.html"> indice <br>
   
   <br>
 <a href="copertina.html"> copertina<br>
