@@ -11,7 +11,7 @@
 <head>
 <style>
 body {
-  background-image: url('img_immagine.jpeg');
+  background-image: url('img_immagine.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
