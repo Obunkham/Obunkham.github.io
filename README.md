@@ -147,8 +147,8 @@ Avendo tutte queste informazioni possiamo calcolare 580x640 X 8 per trovare le a
  <h1><p style="color:white;">paragrafo12
   <h1><p style="color:white;">la differenza tra compiter General purpose e una work station
    <h1></h1><p style="color:white;"> Nei compiter general porpose il loro scopo é generale quindi non hanno un obbiettivo specifico <br>
- <h1><p style="color:white;">   da compiere potrebbe essere un semplice compiuter per aprire crome fare presentazioni ecc... <br>
-    <h1><p style="color:white;"> Le work station servono a compiere un lavoro specifico o piú pesante
+ <h1></h1><p style="color:white;">   da compiere potrebbe essere un semplice compiuter per aprire crome fare presentazioni ecc... <br>
+    <h1></h1><p style="color:white;"> Le work station servono a compiere un lavoro specifico o piú pesante
                                                                                                  
   <br>
   <br>
