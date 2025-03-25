@@ -124,14 +124,16 @@ e collegata alla tastiera codifica dei numeri (interi e reali) con la codifica i
 <img src="rj45.jpeg"> <br>
 la porta rj45 é necessaria per collegare un ruter a un pc per via cablata.
 non é obbligatoria ma la differenza tra una connesione senza cavo e con é gigantesca.
+<h1><p style="color:white;">Capitolo 4
 <h1><p style="color:white;">paragrafo8
-<h1><p style="color:white;">occupazione di memoria immagini <br>
-per calcolare l'occupazione di memoria di un immagine si deve calcolare la risoluzione per esempio "580x640" e facciamo come esempio una tonalitá di grigio in Mb.
+<h1><p style="color:white;">Occupazione di memoria immagini <br>
+Per calcolare l'occupazione di memoria di un immagine si deve calcolare la risoluzione per esempio "580x640" e facciamo come esempio una tonalitá di grigio in Mb. <br>
 Avendo tutte queste informazioni possiamo calcolare 580x640 X 8 per trovare le altre occupazione si deve prendere il risultato del occ1 e dividierla per 2 alla 10
-
-<p style="color:white;">Capitolo 4
-
-<p style="color:white;">Paragrafo 9
+<h1><p style="color:white;">Paragrafo 9
+<h1><p style="color:white;"> Codifiche video <br>
+ Normalmente l'occhio umano riesce a vedere 30fps=frame/fotogrammi per secondo. <br>
+ Per trovare occ1 si deve prendere:la risoluzione X la profonditá X i frame X i sceondi. <br>
+ Per avere le altre occupazione si deve prendere l'occ1 e dividerla per 8 e il risultato continuarlo a dividere per 2 alla 10
 </p>
 
 
