@@ -127,7 +127,7 @@ non é obbligatoria ma la differenza tra una connesione senza cavo e con é giga
 <h1><p style="color:white;">Capitolo 4
 <h1><p style="color:white;">paragrafo8<br>
 <h1><p style="color:white;">Occupazione di memoria immagini <br>
-<h1></h1>Per calcolare l'occupazione di memoria di un immagine si deve calcolare la risoluzione per esempio "580x640" e facciamo come esempio una tonalitá di grigio in Mb. <br>
+<h1></h1><p style="color:white;">Per calcolare l'occupazione di memoria di un immagine si deve calcolare la risoluzione per esempio "580x640" e facciamo come esempio una tonalitá di grigio in Mb. <br>
 Avendo tutte queste informazioni possiamo calcolare 580x640 X 8 per trovare le altre occupazione si deve prendere il risultato del occ1 e dividierla per 2 alla 10
 <h1><p style="color:white;">Paragrafo 9
 <h1><p style="color:white;"> Codifiche video <br>
