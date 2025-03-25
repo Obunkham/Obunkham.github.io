@@ -73,7 +73,7 @@ Messaggiare a lunghe distanze
 
 <h1><p style="color:white;">ASPETTI NEGATIVI: <br>
 
-<h1></h1>Le dipendenze che si possono formare con l’uso eccessivo della
+<h1></h1><p style="color:white;">Le dipendenze che si possono formare con l’uso eccessivo della
 tecnologia
 
 Il cyber bullismo
@@ -83,13 +83,13 @@ I problemi di privacy
 Fake news/scam
 <h1><p style="color:white;">capitolo 2<br>
 <h1><p style="color:white;">paragrafo4<br>
-<h1><p style="color:white;">come comportarsi in rete
+<h1><p style="color:white;">come comportarsi in rete <br>
 <img src="HAKER.jpeg"> <br>
 <h1></h1><p style="color:white;">In rete si deve fare attenzione a quello che si pubblica nei
 social media (immagini,video,foto,commenti) e anche a non
 cadere per gli scam
 <p style="color:white;">paragrafo5
-<h1><p style="color:white;">componenti-hardware/software
+<h1><p style="color:white;">componenti-hardware/software <br>
 <img src="immagine69.jpeg"> <br>
 <h1></h1><p style="color:white;">Il computer è composto da più componenti tra cui memorie
 come la RAM-ROM-CACHE. <br>
@@ -126,8 +126,8 @@ e collegata alla tastiera codifica dei numeri (interi e reali) con la codifica i
 non é obbligatoria ma la differenza tra una connesione senza cavo e con é gigantesca.
 <h1><p style="color:white;">Capitolo 4
 <h1><p style="color:white;">paragrafo8<br>
-<h1></h1><p style="color:white;">Occupazione di memoria immagini <br>
-Per calcolare l'occupazione di memoria di un immagine si deve calcolare la risoluzione per esempio "580x640" e facciamo come esempio una tonalitá di grigio in Mb. <br>
+<h1><p style="color:white;">Occupazione di memoria immagini <br>
+<h1></h1>Per calcolare l'occupazione di memoria di un immagine si deve calcolare la risoluzione per esempio "580x640" e facciamo come esempio una tonalitá di grigio in Mb. <br>
 Avendo tutte queste informazioni possiamo calcolare 580x640 X 8 per trovare le altre occupazione si deve prendere il risultato del occ1 e dividierla per 2 alla 10
 <h1><p style="color:white;">Paragrafo 9
 <h1><p style="color:white;"> Codifiche video <br>
