@@ -91,22 +91,22 @@ cadere per gli scam
 <p style="color:white;">paragrafo5
 <h1><p style="color:white;">componenti-hardware/software
 <img src="immagine69.jpeg"> <br>
-<h1><p style="color:white;">Il computer è composto da più componenti tra cui memorie
-come la RAM-ROM-CACHE.
+<h1></h1><p style="color:white;">Il computer è composto da più componenti tra cui memorie
+come la RAM-ROM-CACHE. <br>
 
 <p style="color:white;">Ogni computer ha anche un sistema operativo diverso
 es:Ubuntu,Windows,Linux ecc.
-<h1><p style="color:white;">hardwer<br><h1><p style="color:white;"> scheda madre <br> <img src="immagine10.jpeg"> <br>
-<h1><p style="color:white;">periferiche input-output <br>
+<p style="color:white;">hardwer<br><h1><p style="color:white;"> scheda madre <br> <img src="immagine10.jpeg"> <br>
+<p style="color:white;">periferiche input-output <br>
 <img src="CPU.jpeg"> <br>
-<h1><p style="color:white;">la CPU é la componente é il processore necessaria per l'elaborazione delle informazioni e dei programmi <br>
+<p style="color:white;">la CPU é la componente é il processore necessaria per l'elaborazione delle informazioni e dei programmi <br>
 <img src="RAM.jpeg"> <br>
-<h1><p style="color:white;">la RAM, piú é pesante il programma piú memoria ram servirá di solito é necessario solo 8 GB ma potrebbe arrivare anche fino ai 16 GB. <br>
+<p style="color:white;">la RAM, piú é pesante il programma piú memoria ram servirá di solito é necessario solo 8 GB ma potrebbe arrivare anche fino ai 16 GB. <br>
 <img src="GPU.jpeg"> <br>
-<h1><p style="color:white;">la GPU elabora grandi gruppi di dati e informazioni e serve fondamentalmente per il 3D. <br>
+<p style="color:white;">la GPU elabora grandi gruppi di dati e informazioni e serve fondamentalmente per il 3D. <br>
 <img src="PSU.jpeg"> <br>
-<h1><p style="color:white;">la PSU serve per l'alimentazione del computer in base alle altre componenti richiederá meno o piú alimentazione.
-<h1><p style="color:white;">software BIOS applicazioni sistema operativo <br>
+<p style="color:white;">la PSU serve per l'alimentazione del computer in base alle altre componenti richiederá meno o piú alimentazione.
+<p style="color:white;">software BIOS applicazioni sistema operativo <br>
 <img src="BIOS.jpeg"> <br>
 
 <p style="color:white;">Per usare un computer servono anche componenti esterne come
@@ -117,24 +117,29 @@ viene azionato usando un comando che viene eseguito usando delle informazioni ch
 <p style="color:white;">paragrafo6
 <h1><p style="color:white;">codifiche ASCII <br> 
 <img src="ASCII.jpeg">  <br>
-<h1><p style="color:white;">(American Standard Code for Information Interchange)
+<p style="color:white;">(American Standard Code for Information Interchange)
 e collegata alla tastiera codifica dei numeri (interi e reali) con la codifica immagini e audio
 <h1><p style="color:white;">paragrafo7
 <h1><p style="color:white;">porta rj45 <br>
 <img src="rj45.jpeg"> <br>
-la porta rj45 é necessaria per collegare un ruter a un pc per via cablata.
+<p style="color:white;">la porta rj45 é necessaria per collegare un ruter a un pc per via cablata.
 non é obbligatoria ma la differenza tra una connesione senza cavo e con é gigantesca.
 <h1><p style="color:white;">Capitolo 4
-<h1><p style="color:white;">paragrafo8
-<h1><p style="color:white;">Occupazione di memoria immagini <br>
+<h1><p style="color:white;">paragrafo8<br>
+<p style="color:white;">Occupazione di memoria immagini <br>
 Per calcolare l'occupazione di memoria di un immagine si deve calcolare la risoluzione per esempio "580x640" e facciamo come esempio una tonalitá di grigio in Mb. <br>
 Avendo tutte queste informazioni possiamo calcolare 580x640 X 8 per trovare le altre occupazione si deve prendere il risultato del occ1 e dividierla per 2 alla 10
 <h1><p style="color:white;">Paragrafo 9
 <h1><p style="color:white;"> Codifiche video <br>
-<h1><p style="color:white;"> Normalmente l'occhio umano riesce a vedere 30fps=frame/fotogrammi per secondo. <br>
- Per trovare occ1 si deve prendere:la risoluzione X la profonditá X i frame X i sceondi. <br>
+<p style="color:white;"> Normalmente l'occhio umano riesce a vedere 30fps=frame/fotogrammi per secondo. <br>
+ Per trovare occ1 di un video si deve prendere:la risoluzione X la profonditá X i frame X i sceondi. <br>
  Per avere le altre occupazione si deve prendere l'occ1 e dividerla per 8 e il risultato continuarlo a dividere per 2 alla 10
 </p>
+<h1><p style="color:white;">paragrafo10 <br>
+<h1><p style="color:white;">la differenza tra file LOSS e LOSSLES <br>
+<p style="color:white;">Nei file LOSS per esempio nei jpeg c'é la possibilitá di perditá di informazioni nella trasmissione.<br>
+<<p style="color:white;">Nei file LOSSLES per esempio nei PNG/GIF non viene persa nessuna informazione. <br>
+
 
 
 <a href="#scienza">scienza</a>
