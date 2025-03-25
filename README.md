@@ -131,7 +131,7 @@ Per calcolare l'occupazione di memoria di un immagine si deve calcolare la risol
 Avendo tutte queste informazioni possiamo calcolare 580x640 X 8 per trovare le altre occupazione si deve prendere il risultato del occ1 e dividierla per 2 alla 10
 <h1><p style="color:white;">Paragrafo 9
 <h1><p style="color:white;"> Codifiche video <br>
- Normalmente l'occhio umano riesce a vedere 30fps=frame/fotogrammi per secondo. <br>
+<h1><p style="color:white;"> Normalmente l'occhio umano riesce a vedere 30fps=frame/fotogrammi per secondo. <br>
  Per trovare occ1 si deve prendere:la risoluzione X la profonditá X i frame X i sceondi. <br>
  Per avere le altre occupazione si deve prendere l'occ1 e dividerla per 8 e il risultato continuarlo a dividere per 2 alla 10
 </p>
