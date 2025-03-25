@@ -83,13 +83,13 @@ I problemi di privacy
 Fake news/scam
 <h1><p style="color:white;">capitolo 2<br>
 <h1><p style="color:white;">paragrafo4<br>
-<h1><p style="color:white;">come comportarsi in rete</h1>
+<h1><p style="color:white;">come comportarsi in rete
 <img src="HAKER.jpeg"> <br>
 <p style="color:white;">In rete si deve fare attenzione a quello che si pubblica nei
 social media (immagini,video,foto,commenti) e anche a non
 cadere per gli scam
-<p style="color:white;">paragrafo5</h1>
-<h1><p style="color:white;">componenti-hardware/software</h1>
+<p style="color:white;">paragrafo5
+<h1><p style="color:white;">componenti-hardware/software
 <img src="immagine69.jpeg"> <br>
 <h1><p style="color:white;">Il computer è composto da più componenti tra cui memorie
 come la RAM-ROM-CACHE.
@@ -113,14 +113,14 @@ es:Ubuntu,Windows,Linux ecc.
 il mouse,la tastiera e un monitor.
 viene azionato usando un comando che viene eseguito usando delle informazioni che vengono eseguite solo se il rpogramma 
 
-<p style="color:white;">CAPITOLO 3</h1>
-<p style="color:white;">paragrafo6</h1>
-<h1><p style="color:white;">codifiche ASCII</h1> <br> 
+<p style="color:white;">CAPITOLO 3
+<p style="color:white;">paragrafo6
+<h1><p style="color:white;">codifiche ASCII <br> 
 <img src="ASCII.jpeg">  <br>
 <h1><p style="color:white;">(American Standard Code for Information Interchange)
 e collegata alla tastiera codifica dei numeri (interi e reali) con la codifica immagini e audio
-<h1><p style="color:white;">paragrafo7</h1>
-<h1><p style="color:white;">porta rj45</h1> <br>
+<h1><p style="color:white;">paragrafo7
+<h1><p style="color:white;">porta rj45 <br>
 <img src="rj45.jpeg"> <br>
 la porta rj45 é necessaria per collegare un ruter a un pc per via cablata.
 non é obbligatoria ma la differenza tra una connesione senza cavo e con é gigantesca.
