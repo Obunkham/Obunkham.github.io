@@ -125,11 +125,13 @@ e collegata alla tastiera codifica dei numeri (interi e reali) con la codifica i
 la porta rj45 é necessaria per collegare un ruter a un pc per via cablata.
 non é obbligatoria ma la differenza tra una connesione senza cavo e con é gigantesca.
 <h1><p style="color:white;">paragrafo8
-<h1><p style="color:white;">occupazione di memoria immagini
+<h1><p style="color:white;">occupazione di memoria immagini <br>
+per calcolare l'occupazione di memoria di un immagine si deve calcolare la risoluzione per esempio "580x640" e facciamo come esempio una tonalitá di grigio in Mb.
+Avendo tutte queste informazioni possiamo calcolare 580x640 X 8 per trovare le altre occupazione si deve prendere il risultato del occ1 e dividierla per 2 alla 10
 
 <p style="color:white;">Capitolo 4
-<h1><p style="color:white;">	CODIFICHE
-<p style="color:white;">Paragrafo 7
+
+<p style="color:white;">Paragrafo 9
 </p>
 
 
