@@ -1,4 +1,4 @@
-# Obunkham.github.io
+<h1><p style="color:white;"># Obunkham.github.io
 
 
  
@@ -61,17 +61,17 @@ La 4° rivoluzione industriale: l’
 invenzione del AI o IA la stampante
 3D
 <h1><p style="color:white;">paragrafo3<br>
-<h1></h1><p style="color:white;"><aspetti-positivi/negativi<br>
+<h1><p style="color:white;"><aspetti-positivi/negativi<br>
 <img src="immagine3.jpeg"> <br>
-<p style="color:white;">ASPETTI POSITIVI:
+<h1><p style="color:white;"><p style="color:white;">ASPETTI POSITIVI:
 
-L’internet può aiutare con informazioni utili
+<h1><p style="color:white;">L’internet può aiutare con informazioni utili
 
 Può essere una forma di intrattenimento
 
 Messaggiare a lunghe distanze
 
-ASPETTI NEGATIVI:
+<h1><p style="color:white;">ASPETTI NEGATIVI:
 
 Le dipendenze che si possono formare con l’uso eccessivo della
 tecnologia
@@ -83,15 +83,15 @@ I problemi di privacy
 Fake news/scam
 <h1><p style="color:white;">capitolo 2<br>
 <h1><p style="color:white;">paragrafo4<br>
-<h1>come comportarsi in rete</h1>
+<h1><p style="color:white;">come comportarsi in rete</h1>
 <img src="HAKER.jpeg"> <br>
 <p style="color:white;">In rete si deve fare attenzione a quello che si pubblica nei
 social media (immagini,video,foto,commenti) e anche a non
 cadere per gli scam
-<p style="color:white;"><h1>paragrafo5</h1>
-<h1>componenti-hardware/software</h1>
+<p style="color:white;">paragrafo5</h1>
+<h1><p style="color:white;">componenti-hardware/software</h1>
 <img src="immagine69.jpeg"> <br>
-<p style="color:white;">Il computer è composto da più componenti tra cui memorie
+<h1><p style="color:white;">Il computer è composto da più componenti tra cui memorie
 come la RAM-ROM-CACHE.
 
 <p style="color:white;">Ogni computer ha anche un sistema operativo diverso
@@ -113,18 +113,18 @@ es:Ubuntu,Windows,Linux ecc.
 il mouse,la tastiera e un monitor.
 viene azionato usando un comando che viene eseguito usando delle informazioni che vengono eseguite solo se il rpogramma 
 
-<p style="color:white;"><h1>CAPITOLO 3</h1>
-<p style="color:white;"><h1>paragrafo6</h1>
-<h1>codifiche ASCII</h1> <br> 
+<p style="color:white;">CAPITOLO 3</h1>
+<p style="color:white;">paragrafo6</h1>
+<h1><p style="color:white;">codifiche ASCII</h1> <br> 
 <img src="ASCII.jpeg">  <br>
-<p style="color:white;">(American Standard Code for Information Interchange)
+<h1><p style="color:white;">(American Standard Code for Information Interchange)
 e collegata alla tastiera codifica dei numeri (interi e reali) con la codifica immagini e audio
-<h1>paragrafo7</h1>
-<h1>porta rj45</h1> <br>
+<h1><p style="color:white;">paragrafo7</h1>
+<h1><p style="color:white;">porta rj45</h1> <br>
 <img src="rj45.jpeg"> <br>
 la porta rj45 é necessaria per collegare un ruter a un pc per via cablata.
 non é obbligatoria ma la differenza tra una connesione senza cavo e con é gigantesca.
-<h1>paragrafo8</h1>
+<h1><p style="color:white;">paragrafo8</h1>
 <h1>occupazione di memoria immagini</h1>
 
 <p style="color:white;"><h1>Capitolo 4</h1>
