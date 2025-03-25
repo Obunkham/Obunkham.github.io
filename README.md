@@ -124,15 +124,14 @@ e collegata alla tastiera codifica dei numeri (interi e reali) con la codifica i
 <img src="rj45.jpeg"> <br>
 la porta rj45 é necessaria per collegare un ruter a un pc per via cablata.
 non é obbligatoria ma la differenza tra una connesione senza cavo e con é gigantesca.
-<h1><p style="color:white;">paragrafo8</h1>
-<h1>occupazione di memoria immagini</h1>
+<h1><p style="color:white;">paragrafo8
+<h1><p style="color:white;">occupazione di memoria immagini
 
-<p style="color:white;"><h1>Capitolo 4</h1>
-	CODIFICHE
-<p style="color:white;"><h1>Paragrafo 7</h1>
+<p style="color:white;">Capitolo 4
+<h1><p style="color:white;">	CODIFICHE
+<p style="color:white;">Paragrafo 7
 </p>
-</body>
-</html>
+
 
 <a href="#scienza">scienza</a>
   <br>
@@ -150,4 +149,5 @@ non é obbligatoria ma la differenza tra una connesione senza cavo e con é giga
    <a href="#componenti-hardware/software">componenti-hardware/software</a>
   <br>
  
- 
+ </body>
+</html>
