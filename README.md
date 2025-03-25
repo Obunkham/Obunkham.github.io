@@ -139,10 +139,17 @@ Avendo tutte queste informazioni possiamo calcolare 580x640 X 8 per trovare le a
 <h1><p style="color:white;">la differenza tra file LOSS e LOSSLES <br>
 <h1></h1><p style="color:white;">Nei file LOSS per esempio nei jpeg c'é la possibilitá di perditá di informazioni nella trasmissione.<br>
 <h1></h1><p style="color:white;">Nei file LOSSLES per esempio nei PNG/GIF non viene persa nessuna informazione. <br>
-
-
-
-<a href="#scienza">scienza</a>
+<h1><p style="color:white;">paragrafo11 <br>
+<h1><p style="color:white;">codifiche audio
+<h1></h1><p style="color:white;">le codifiche audio sono composte dalla DISCRETIZZAZIONE,CAMPIONAMENTO,QUANTIZZAZIONE. <br>
+ Grazie a queste tre componenti riusciamo a calcolare l'audio a causa del rumore che viene codificato in linee che in <br>
+ un grafico vengono rappresentate come onde
+ <h1><p style="color:white;">paragrafo12
+  <h1><p style="color:white;">la differenza tra compiter General purpose e una work station
+   <h1></h1><p style="color:white;"> Nei compiter general porpose il loro scopo é generale quindi non hanno un obbiettivo specifico <br>
+ <h1><p style="color:white;">   da compiere potrebbe essere un semplice compiuter per aprire crome fare presentazioni ecc... <br>
+    <h1><p style="color:white;"> Le work station servono a compiere un lavoro specifico o piú pesante
+                                                                                                 
   <br>
   <br>
   
