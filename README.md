@@ -96,7 +96,7 @@ come la RAM-ROM-CACHE. <br>
 
 <h1></h1><p style="color:white;">Ogni computer ha anche un sistema operativo diverso
 es:Ubuntu,Windows,Linux ecc.
-<h1></h1><p style="color:white;">hardwer<br><h1></h1><p style="color:white;"> scheda madre <br> <img src="immagine10.jpeg"> <br>
+<h1><p style="color:white;">hardwer<br><h1></h1><p style="color:white;"> scheda madre <br> <img src="immagine10.jpeg"> <br>
 <h1></h1><p style="color:white;">periferiche input-output <br>
 <img src="CPU.jpeg"> <br>
 <h1></h1><p style="color:white;">la CPU é la componente é il processore necessaria per l'elaborazione delle informazioni e dei programmi <br>
