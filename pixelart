@@ -1,0 +1,149 @@
+<div class="cielo"></div>
+<div class="prato"></div>
+<div class="sole"></div>
+<div class="nuvola"></div>
+<div class="nuvola1"></div>
+<div class="nuvola2"></div>
+<div class="tronco"></div>
+<div class="chioma"></div>
+<div class="mela mela1"></div>
+<div class="mela mela2"></div>
+<div class="mela mela3"></div>
+
+<style>
+    .mela {
+    background-color:red;
+    width: 20px;
+    height: 20px;
+    border-style: dashed;
+    border-color: red;
+    border-width: 3px;
+    left: 350px;
+    top: 250px;
+    position: absolute;
+    }
+    </style>
+    <style>
+        .mela1 {
+        background-color:red;
+        width: 20px;
+        height: 20px;
+        border-style: dashed;
+        border-color: red;
+        border-width: 3px;
+        left: 300px;
+        top: 290px;
+        position: absolute;
+        }
+        </style>
+        <style>
+            .mela2 {
+            background-color:red;
+            width: 20px;
+            height: 20px;
+            border-style: dashed;
+            border-color: red;
+            border-width: 3px;
+            left: 375px;
+            top: 325px;
+            position: absolute;
+            }
+            </style>
+    <style>
+        .prato {
+        background-color:green;
+        width: 1434px;
+        height: 287px;
+        border-style: dashed;
+        border-color: green;
+        border-width: 3px;
+        left: 0px;
+        top: 480px;
+        position: absolute;
+        }
+        </style>
+        <style>
+            .tronco {
+            background-color:brown;
+            width: 38px;
+            height: 99px;
+            border-style: dashed;
+            border-color: brown;
+            border-width: 3px;
+            left: 325px;
+            top: 375px;
+            position: absolute;
+            }
+            </style>
+            <style>
+                .chioma {
+                background-color:green;
+                width: 150px;
+                height: 150px;
+                border-style: dashed;
+                border-color: green;
+                border-width: 3px;
+                left: 270px;
+                top: 220px;
+                position: absolute;
+                }
+                </style>
+                <style>
+                    .cielo {
+                    background-color:lightblue;
+                    width: 1434px;
+                    height: 550px;
+                    border-style: dashed;
+                    border-color: lightblue;
+                    border-width: 3px;
+                    left: 0px;
+                    top: 0px;
+                    position: absolute;
+                    }
+                    </style>
+                    <style>
+                        .sole {
+                        background-color:yellow;
+                        width: 120px;
+                        height: 120px;
+                        border-style: dashed;
+                        border-color: yellow;
+                        border-width: 3px;
+                        left: 1200px;
+                        top: 68px;
+                        position: absolute;
+                        }
+                        .nuvola {
+                        background-color:white;
+                        width: 130px;
+                        height: 65px;
+                        border-style: dashed;
+                        border-color: white;
+                        border-width: 3px;
+                        left: 610px;
+                        top: 100px;
+                        position: absolute;
+                        }
+                        .nuvola1 {
+                        background-color:white;
+                        width: 100px;
+                        height: 65px;
+                        border-style: dashed;
+                        border-color: white;
+                        border-width: 3px;
+                        left: 715px;
+                        top: 80px;
+                        position: absolute;
+                        }
+                        .nuvola2 {
+                        background-color:white;
+                        width: 100px;
+                        height: 65px;
+                        border-style: dashed;
+                        border-color: white;
+                        border-width: 3px;
+                        left: 530px;
+                        top: 80px;
+                        position: absolute;
+                        }
+                    </style>
