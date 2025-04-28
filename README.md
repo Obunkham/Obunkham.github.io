@@ -37,7 +37,7 @@ realizzazione complesso composto da diversi codici come il "codice binario"
 
 
 <h1><p style="color:white;">paragrafo2<br>
-<h1><p style="color:white;">storia<br>
+<h2><p style="color:white;">storia<br>
 <img src="immagine4.jpeg"> <br>
 <h1></h1><p style="color:white;">Negli anni la tecnologia dei computer è migliorata parecchio.
 
@@ -63,9 +63,9 @@ La 4° rivoluzione industriale: l’
 invenzione del AI o IA la stampante
 3D
 <h1><p style="color:white;">paragrafo3<br>
-<h1><p style="color:white;">aspetti-positivi/negativi<br>
+<h2><p style="color:white;">aspetti-positivi/negativi<br>
 <img src="immagine3.jpeg"> <br>
-<h1><p style="color:white;"><p style="color:white;">ASPETTI POSITIVI: <br>
+<h2><p style="color:white;"><p style="color:white;">ASPETTI POSITIVI: <br>
 
 <h1></h1><p style="color:white;">L’internet può aiutare con informazioni utili
 
@@ -73,7 +73,7 @@ Può essere una forma di intrattenimento
 
 Messaggiare a lunghe distanze
 
-<h1><p style="color:white;">ASPETTI NEGATIVI: <br>
+<h2><p style="color:white;">ASPETTI NEGATIVI: <br>
 
 <h1></h1><p style="color:white;">Le dipendenze che si possono formare con l’uso eccessivo della
 tecnologia
@@ -83,15 +83,15 @@ Il cyber bullismo
 I problemi di privacy
 
 Fake news/scam
-<h1><p style="color:white;">capitolo 2<br>
+<title><p style="color:white;">capitolo 2<br>
 <h1><p style="color:white;">paragrafo4<br>
-<h1><p style="color:white;">come comportarsi in rete <br>
+<h2><p style="color:white;">come comportarsi in rete <br>
 <img src="HAKER.jpeg"> <br>
 <h1></h1><p style="color:white;">In rete si deve fare attenzione a quello che si pubblica nei
 social media (immagini,video,foto,commenti) e anche a non
 cadere per gli scam
 <p style="color:white;">paragrafo5
-<h1><p style="color:white;">componenti-hardware/software <br>
+<h2><p style="color:white;">componenti-hardware/software <br>
 <img src="immagine69.jpeg"> <br>
 <h1></h1><p style="color:white;">Il computer è composto da più componenti tra cui memorie
 come la RAM-ROM-CACHE. <br>
@@ -115,39 +115,39 @@ es:Ubuntu,Windows,Linux ecc.
 il mouse,la tastiera e un monitor.
 viene azionato usando un comando che viene eseguito usando delle informazioni che vengono eseguite solo se il rpogramma 
 
-<h1><p style="color:white;">CAPITOLO 3
-<p style="color:white;">paragrafo6
-<h1><p style="color:white;">codifiche ASCII <br> 
+<title><p style="color:white;">CAPITOLO 3 <br>
+<h1><p style="color:white;">paragrafo6
+<h2><p style="color:white;">codifiche ASCII <br> 
 <img src="ASCII.jpeg">  <br>
 <h1></h1><p style="color:white;">(American Standard Code for Information Interchange)
 e collegata alla tastiera codifica dei numeri (interi e reali) con la codifica immagini e audio
 <h1><p style="color:white;">paragrafo7
-<h1><p style="color:white;">porta rj45 <br>
+<h2><p style="color:white;">porta rj45 <br>
 <img src="rj45.jpeg"> <br>
 <h1></h1><p style="color:white;">la porta rj45 é necessaria per collegare un ruter a un pc per via cablata.
 non é obbligatoria ma la differenza tra una connesione senza cavo e con é gigantesca.
-<h1><p style="color:white;">Capitolo 4
+<title><p style="color:white;">Capitolo 4
 <h1><p style="color:white;">paragrafo8<br>
-<h1><p style="color:white;">Occupazione di memoria immagini <br>
+<h2><p style="color:white;">Occupazione di memoria immagini <br>
 <h1></h1><p style="color:white;">Per calcolare l'occupazione di memoria di un immagine si deve calcolare la risoluzione per esempio "580x640" e facciamo come esempio una tonalitá di grigio in Mb. <br>
 Avendo tutte queste informazioni possiamo calcolare 580x640 X 8 per trovare le altre occupazione si deve prendere il risultato del occ1 e dividierla per 2 alla 10
 <h1><p style="color:white;">Paragrafo 9
-<h1><p style="color:white;"> Codifiche video <br>
+<h2><p style="color:white;"> Codifiche video <br>
 <h1></h1><p style="color:white;"> Normalmente l'occhio umano riesce a vedere 30fps=frame/fotogrammi per secondo. <br>
  Per trovare occ1 di un video si deve prendere:la risoluzione X la profonditá X i frame X i sceondi. <br>
  Per avere le altre occupazione si deve prendere l'occ1 e dividerla per 8 e il risultato continuarlo a dividere per 2 alla 10
 </p>
 <h1><p style="color:white;">paragrafo10 <br>
-<h1><p style="color:white;">la differenza tra file LOSS e LOSSLES <br>
+<h2><p style="color:white;">la differenza tra file LOSS e LOSSLES <br>
 <h1></h1><p style="color:white;">Nei file LOSS per esempio nei jpeg c'é la possibilitá di perditá di informazioni nella trasmissione.<br>
 <h1></h1><p style="color:white;">Nei file LOSSLES per esempio nei PNG/GIF non viene persa nessuna informazione. <br>
 <h1><p style="color:white;">paragrafo11 <br>
-<h1><p style="color:white;">codifiche audio
+<h2><p style="color:white;">codifiche audio
 <h1></h1><p style="color:white;">le codifiche audio sono composte dalla DISCRETIZZAZIONE,CAMPIONAMENTO,QUANTIZZAZIONE. <br>
  Grazie a queste tre componenti riusciamo a calcolare l'audio a causa del rumore che viene codificato in linee che in <br>
  un grafico vengono rappresentate come onde
  <h1><p style="color:white;">paragrafo12
-  <h1><p style="color:white;">la differenza tra compiter General purpose e una work station
+  <h2><p style="color:white;">la differenza tra compiter General purpose e una work station
    <h1></h1><p style="color:white;"> Nei compiter general porpose il loro scopo é generale quindi non hanno un obbiettivo specifico <br>
  <h1></h1><p style="color:white;">   da compiere potrebbe essere un semplice compiuter per aprire crome fare presentazioni ecc... <br>
     <h1></h1><p style="color:white;"> Le work station servono a compiere un lavoro specifico o piú pesante
