@@ -165,5 +165,4 @@ Avendo tutte queste informazioni possiamo calcolare 580x640 X 8 per trovare le a
    <a href="#componenti-hardware/software">componenti-hardware/software</a>
   <br>
  
- </body>
-</html>
+
