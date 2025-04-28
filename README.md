@@ -23,6 +23,7 @@ body {
 </style>
 </head>
 <body>
+ <title>CAPITOLO 1</title>
 <h1><p style="color:white;">paragrafo1<br>
 
 <h2><p style="color:white;">scienza<br>
