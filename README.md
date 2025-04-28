@@ -25,7 +25,7 @@ body {
 <body>
 <h1><p style="color:white;">paragrafo1<br>
 
-<h1><p style="color:white;">scienza<br>
+<h2><p style="color:white;">scienza<br>
 <img src="immagine.jpeg"> <br>
 <h1></h1><p style="color:white;">L’informatica ha bisogno anche di usare la scienza.
 Per esempio tutti i computer per essere costruiti
