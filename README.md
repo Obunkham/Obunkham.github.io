@@ -61,7 +61,7 @@ La 4° rivoluzione industriale: l’
 invenzione del AI o IA la stampante
 3D
 <h1><p style="color:white;">paragrafo3<br>
-<h1><p style="color:white;"><aspetti-positivi/negativi<br>
+<h1><p style="color:white;">aspetti-positivi/negativi<br>
 <img src="immagine3.jpeg"> <br>
 <h1><p style="color:white;"><p style="color:white;">ASPETTI POSITIVI: <br>
 
