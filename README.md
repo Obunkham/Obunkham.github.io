@@ -154,17 +154,41 @@ Avendo tutte queste informazioni possiamo calcolare 580x640 X 8 per trovare le a
                                                                                                  
   <br>
   <br>
+  <a href="#scienza">scienza</a>
+  <br>
   
   <a href="#storia">storia</a>
   <br>
   
-  <a href="#aspetti-positivi/negativi">aspetti-positivi/negativi</a>
+  <a href="#aspetti-positivi-negativi">aspetti-positivi/negativi</a>
   <br>
   
-  <a href="#come comportarsi in rete">come comportarsi in rete</a>
+  <a href="#come-comportarsi-in-rete">come comportarsi in rete</a>
   <br>
   
-   <a href="#componenti-hardware/software">componenti-hardware/software</a>
+   <a href="#componenti-hardware-software">componenti hardware/software</a>
   <br>
- 
+  
+  <a href="#codifiche-ascii">codifiche ascii</a>
+  <br>
 
+ <a href="#porta-rj45">porta rj45</a>
+  <br>
+
+  <a href="#occupazione-di-memoria-immagini">occupazione memoria immagini</a>
+  <br>
+
+ <a href="#codifiche-video">codifiche video</a>
+  <br>
+
+  <a href="#codifiche-video">codifiche video</a>
+  <br>
+  
+<a href="#la-differenza-tra-file-loss-e-lossles">la differenza tra file LOSS e LOSSLES</a>
+<br>
+
+<a href="#codifiche-audio">codifiche audio</a>
+  <br>
+  
+<a href="#la-differenza-tra-compiter-general-purpose-e-una-work-station">la differenza tra compiter General purpose e una work station</a>
+  <br>
