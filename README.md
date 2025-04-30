@@ -75,7 +75,7 @@ Messaggiare a lunghe distanze
 
 <h2><p style="color:white;">ASPETTI NEGATIVI<br>
 
-<h1><p style="color:white;">Le dipendenze che si possono formare con l’uso eccessivo della
+<h1></h1><p style="color:white;">Le dipendenze che si possono formare con l’uso eccessivo della
 tecnologia
 
 Il cyber bullismo
