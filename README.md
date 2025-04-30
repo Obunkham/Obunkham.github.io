@@ -126,7 +126,7 @@ e collegata alla tastiera codifica dei numeri (interi e reali) con la codifica i
 <img src="rj45.jpeg"> <br>
 <h1></h1><p style="color:white;">la porta rj45 é necessaria per collegare un ruter a un pc per via cablata.
 non é obbligatoria ma la differenza tra una connesione senza cavo e con é gigantesca.
-<title><p style="color:white;">Capitolo 4
+<h1><p style="color:white;">Capitolo 4
 <h1><p style="color:white;">paragrafo8<br>
 <h2><p style="color:white;">Occupazione di memoria immagini <br>
 <h1></h1><p style="color:white;">Per calcolare l'occupazione di memoria di un immagine si deve calcolare la risoluzione per esempio "580x640" e facciamo come esempio una tonalitá di grigio in Mb. <br>
