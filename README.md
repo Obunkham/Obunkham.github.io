@@ -83,7 +83,7 @@ Il cyber bullismo
 I problemi di privacy
 
 Fake news/scam <br>
-<title><p style="color:white;">capitolo 2<br>
+<p style="color:white;">capitolo 2<br>
 <h1><p style="color:white;">paragrafo4<br>
 <h2><p style="color:white;">come comportarsi in rete <br>
 <img src="HAKER.jpeg"> <br>
