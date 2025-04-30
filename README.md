@@ -180,9 +180,6 @@ Avendo tutte queste informazioni possiamo calcolare 580x640 X 8 per trovare le a
 
  <a href="#codifiche-video">codifiche video</a>
   <br>
-
-  <a href="#codifiche-video">codifiche video</a>
-  <br>
   
 <a href="#la-differenza-tra-file-loss-e-lossles">la differenza tra file LOSS e LOSSLES</a>
 <br>
