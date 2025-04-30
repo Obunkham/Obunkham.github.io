@@ -115,7 +115,7 @@ es:Ubuntu,Windows,Linux ecc.
 il mouse,la tastiera e un monitor.
 viene azionato usando un comando che viene eseguito usando delle informazioni che vengono eseguite solo se il rpogramma 
 
-<title><p style="color:white;">CAPITOLO 3 <br>
+<h1><p style="color:white;">CAPITOLO 3 <br>
 <h1><p style="color:white;">paragrafo6
 <h2><p style="color:white;">codifiche ASCII <br> 
 <img src="ASCII.jpeg">  <br>
