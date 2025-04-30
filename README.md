@@ -73,7 +73,7 @@ Può essere una forma di intrattenimento
 
 Messaggiare a lunghe distanze
 
-<h2><p style="color:white;">ASPETTI NEGATIVI: <br>
+<h2><p style="color:white;">ASPETTI NEGATIVI<br>
 
 <h1><p style="color:white;">Le dipendenze che si possono formare con l’uso eccessivo della
 tecnologia
