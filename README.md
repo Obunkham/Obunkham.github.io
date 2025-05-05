@@ -27,12 +27,98 @@ body {
  <title>CAPITOLO 1</title>
 <h1><p style="color:white;">paragrafo1<br>
 
-<h2><p style="color:white;">scienza<br>
 <img src="immagine.jpeg"> <br>
-<h1></h1><p style="color:white;">L’informatica ha bisogno anche di usare la scienza.
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Style the header */
+header {
+  background-color: #666;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+
+
+/* Style the list inside the menu */
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+article {
+  float: left;
+  padding: 20px;
+  width: 70%;
+  background-color: black;
+  height: 300px; 
+}
+
+/* Clear floats after the columns */
+section::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Style the footer */
+footer {
+  background-color: #777;
+  padding: 10px;
+  text-align: center;
+  color: black;
+}
+
+@media (max-width: 600px) {
+  nav, article {
+    width: 100%;
+    height: auto;
+  }
+}
+</style>
+</head>
+<body>
+
+<header>
+ <h2><p style="color:white;">scienza<br>
+</header>
+
+<section>
+  <nav>
+    <ul>
+  
+    </ul>
+  </nav>
+  
+  <article>
+    <h2><p style="color:white;">scienza<br>
+   <h1></h1><p style="color:white;">L’informatica ha bisogno anche di usare la scienza.
 Per esempio tutti i computer per essere costruiti
 devono avere dietro un processo di progettazione e
 realizzazione complesso composto da diversi codici come il "codice binario"
+   
+ 
+  </article>
+</section>
+
+<footer>
+  <p>Footer</p>
+</footer>
+
+</body>
+</html>
+
 
 
 
