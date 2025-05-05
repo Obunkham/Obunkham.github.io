@@ -28,7 +28,7 @@ body {
 <h1><p style="color:white;">paragrafo1<br>
 <h2><p style="color:white;">scienza<br>
 <img src="immagine.jpeg"> <br>
-L’informatica ha bisogno anche di usare la scienza.
+<h1></h1><p style="color:white;">L’informatica ha bisogno anche di usare la scienza.
 Per esempio tutti i computer per essere costruiti
 devono avere dietro un processo di progettazione e
 realizzazione complesso composto da diversi codici come il "codice binario"
