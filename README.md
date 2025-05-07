@@ -151,6 +151,7 @@ Avendo tutte queste informazioni possiamo calcolare 580x640 X 8 per trovare le a
     <h2><p style="color:white;">cosa è una rete <br>
     <h2><p style="color:white;">Personal Area Network <br>  
     <h2><p style="color:white;">LAN <br>
+     <img src="lan.jpeg">
     <h2><p style="color:white;">WAN <br>
      <img src="WAN.jpeg">
     <h2><p style="color:white;">GAN <br>
