@@ -152,7 +152,7 @@ Avendo tutte queste informazioni possiamo calcolare 580x640 X 8 per trovare le a
       <img src="rete.jpeg">
     <h2><p style="color:white;">Personal Area Network <br>  
      <img src="pan.jpeg">
-    <h2><p style="color:white;">LAN <br>
+    <h2><p style="color:white;">LAN  <br>
      <img src="lan.jpeg">
     <h2><p style="color:white;">WAN <br>
      <img src="WAN.jpeg">
