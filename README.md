@@ -149,7 +149,9 @@ Avendo tutte queste informazioni possiamo calcolare 580x640 X 8 per trovare le a
     <h1></h1><p style="color:white;"> Le work station servono a compiere un lavoro specifico o piú pesante
     <h1><p style="color:white;">Capitolo 5
     <h2><p style="color:white;">cosa è una rete <br>
+      <img src="rete.jpeg">
     <h2><p style="color:white;">Personal Area Network <br>  
+     <img src="pan.jpeg">
     <h2><p style="color:white;">LAN <br>
      <img src="lan.jpeg">
     <h2><p style="color:white;">WAN <br>
