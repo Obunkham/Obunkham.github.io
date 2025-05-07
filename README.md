@@ -147,7 +147,12 @@ Avendo tutte queste informazioni possiamo calcolare 580x640 X 8 per trovare le a
    <h1></h1><p style="color:white;"> Nei compiter general porpose il loro scopo é generale quindi non hanno un obbiettivo specifico <br>
  <h1></h1><p style="color:white;">   da compiere potrebbe essere un semplice compiuter per aprire crome fare presentazioni ecc... <br>
     <h1></h1><p style="color:white;"> Le work station servono a compiere un lavoro specifico o piú pesante
-                                                                                                 
+    <h1><p style="color:white;">Capitolo 5
+    <h2><p style="color:white;">cosa è una rete <br>
+    <h2><p style="color:white;">Personal Area Network <br>  
+    <h2><p style="color:white;">LAN <br>
+    <h2><p style="color:white;">WAN <br>
+    <h2><p style="color:white;">GAN <br>
   <br>
   <br>
   <a href="#scienza">scienza</a>
@@ -184,4 +189,19 @@ Avendo tutte queste informazioni possiamo calcolare 580x640 X 8 per trovare le a
   <br>
   
 <a href="#la-differenza-tra-compiter-general-purpose-e-una-work-station">la differenza tra compiter General purpose e una work station</a>
+  <br>
+  
+  <a href="#cosa-è-una-rete">cosa è una rete</a>
+  <br>
+  
+  <a href="#personal-area-network">Personal Area Network</a>
+  <br>
+
+  <a href="#lan">LAN</a>
+  <br>
+
+   <a href="#lan">WAN</a>
+  <br>
+
+   <a href="#gan">GAN</a>
   <br>
