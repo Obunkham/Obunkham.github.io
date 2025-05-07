@@ -153,6 +153,7 @@ Avendo tutte queste informazioni possiamo calcolare 580x640 X 8 per trovare le a
     <h2><p style="color:white;">LAN <br>
     <h2><p style="color:white;">WAN <br>
     <h2><p style="color:white;">GAN <br>
+     <img src="gan.jpeg">
   <br>
   <br>
   <a href="#scienza">scienza</a>
