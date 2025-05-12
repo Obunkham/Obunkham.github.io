@@ -150,14 +150,19 @@ Avendo tutte queste informazioni possiamo calcolare 580x640 X 8 per trovare le a
     <h1><p style="color:white;">Capitolo 5
     <h2><p style="color:white;">cosa è una rete <br>
       <img src="rete.jpeg">
-    <h2><p style="color:white;">Personal Area Network <br>  
+    <h1></h1><p style="color:white;"> La rete sono 2 o più compiuter o altri dispositivi elettrici che permette lo scambio di dati e informazioni
+    <h2><p style="color:white;">Personal Area Network (PAN)<br>  
      <img src="pan.jpeg">
+    <h1></h1><p style="color:white;"> La PAN è una rete personale come per esempio il tuo ruter che viene utilizzato per connettere dispositivi come compiter,telefoni,tablet ecc.
     <h2><p style="color:white;">LAN  <br>
      <img src="lan.jpeg">
+    <h1></h1><p style="color:white;"> La LAN serve per collegare di versi dipositivi periferici condivisi che copre un area come un'abitazione,scuola,azienda o un complesso di edifici adiacenti
     <h2><p style="color:white;">WAN <br>
      <img src="WAN.jpeg">
+      <h1></h1><p style="color:white;">La WAN adifferenza della PAN e della LAN ricopre un area molto più vasta come per esmpio un banca
     <h2><p style="color:white;">GAN <br>
      <img src="gan.jpeg">
+      <h1></h1><p style="color:white;">La GAN serve per migliorare l'efficenza e l'esperienza delle tue ricerche 
   <br>
   <br>
   <a href="#scienza">scienza</a>
