@@ -125,36 +125,36 @@ non é obbligatoria ma la differenza tra una connesione senza cavo e con é giga
 <h1><p style="color:white;">Capitolo 4
 <h1><p style="color:white;">paragrafo8<br>
 <h2><p style="color:white;">Occupazione di memoria immagini <br>
-  <img src="memoria.jpeg">
+  <img src="memoria.jpeg"> <br>
 <h1></h1><p style="color:white;">Per calcolare l'occupazione di memoria di un immagine si deve calcolare la risoluzione per esempio "580x640" e facciamo come esempio una tonalitá di grigio in Mb. <br>
 Avendo tutte queste informazioni possiamo calcolare 580x640 X 8 per trovare le altre occupazione si deve prendere il risultato del occ1 e dividierla per 2 alla 10
 <h1><p style="color:white;">Paragrafo 9
 <h2><p style="color:white;"> Codifiche video <br>
 <h1></h1><p style="color:white;"> Normalmente l'occhio umano riesce a vedere 30fps=frame/fotogrammi per secondo. <br>
-  <img src="video.jpeg">
+  <img src="video.jpeg"> <br>    
  Per trovare occ1 di un video si deve prendere:la risoluzione X la profonditá X i frame X i sceondi. <br>
  Per avere le altre occupazione si deve prendere l'occ1 e dividerla per 8 e il risultato continuarlo a dividere per 2 alla 10
 </p>
 <h1><p style="color:white;">paragrafo10 <br>
 <h2><p style="color:white;">la differenza tra file LOSS e LOSSLES <br>
 <h1></h1><p style="color:white;">Nei file LOSS per esempio nei jpeg c'é la possibilitá di perditá di informazioni nella trasmissione.<br>
-  <img src="LOSS.jpeg">
+  <img src="LOSS.jpeg"> <br>
 <h1></h1><p style="color:white;">Nei file LOSSLES per esempio nei PNG/GIF non viene persa nessuna informazione. <br>
 <h1><p style="color:white;">paragrafo11 <br>
 <h2><p style="color:white;">codifiche audio
 <h1></h1><p style="color:white;">le codifiche audio sono composte dalla DISCRETIZZAZIONE,CAMPIONAMENTO,QUANTIZZAZIONE. <br>
-  <img src="audio.jpeg">
+  <img src="audio.jpeg"> <br>
  Grazie a queste tre componenti riusciamo a calcolare l'audio a causa del rumore che viene codificato in linee che in <br>
  un grafico vengono rappresentate come onde
  <h1><p style="color:white;">paragrafo12
   <h2><p style="color:white;">la differenza tra compiter General purpose e una work station
    <h1></h1><p style="color:white;"> Nei compiter general porpose il loro scopo é generale quindi non hanno un obbiettivo specifico <br>
-     <img src="work.jpeg">
+     <img src="work.jpeg"> <br>
  <h1></h1><p style="color:white;">   da compiere potrebbe essere un semplice compiuter per aprire crome fare presentazioni ecc... <br>
     <h1></h1><p style="color:white;"> Le work station servono a compiere un lavoro specifico o piú pesante
     <h1><p style="color:white;">Capitolo 5
     <h2><p style="color:white;">cosa è una rete <br>
-      <img src="rete.jpeg">
+      <img src="rete.jpeg"> <br>
     <h1></h1><p style="color:white;"> La rete sono 2 o più compiuter o altri dispositivi elettrici che permette lo scambio di dati e informazioni
     <h2><p style="color:white;">Personal Area Network (PAN)<br>  
      <img src="pan.jpeg">
